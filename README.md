@@ -14,7 +14,15 @@
 </p>
 
 <p align="center">
-  <img src=".images/home.png" alt="Logo">
+  <img src=".images/home.png" alt="Home">
+</p>
+
+<p align="center">
+  <img src=".images/form.png" alt="Form">
+</p>
+
+<p align="center">
+  <img src=".images/list.png" alt="List">
 </p>
 
 <!-- TABLE OF CONTENTS -->
